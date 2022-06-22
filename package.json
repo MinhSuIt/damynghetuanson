@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "damynghetuanson",
   "main": "index.html",
-  "homepage": "https://minhsudoit.github.io/damynghetuanson",
+  "homepage": "https://minhsuit.github.io/damynghetuanson",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "gh-pages -d damynghetuanson"
